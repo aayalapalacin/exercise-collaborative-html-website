@@ -8,4 +8,8 @@ body{
         height: 297px;
         background-repeat: no-repeat;
         margin: auto;
+        padding-top:3rem;
 }
+.text-align-center{
+    text-align: center;
+}  
