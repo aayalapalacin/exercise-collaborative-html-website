@@ -1,3 +1,15 @@
 body{
     background: #BDBDBD;
 }
+.taglineContainer{
+    background-image: url("../img/bg.jpg");
+        background-size: contain;
+        width: 627px;
+        height: 297px;
+        background-repeat: no-repeat;
+        margin: auto;
+        padding-top:3rem;
+}
+.text-align-center{
+    text-align: center;
+}  
