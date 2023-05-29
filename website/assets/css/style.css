@@ -13,3 +13,18 @@ body{
 .text-align-center{
     text-align: center;
 }  
+.fHeadingContainer{
+    width:627px;
+}
+.text{
+    font-size: 17px;
+}
+
+.p{
+    font-size:12px;
+}
+.imgTag{
+    
+    height: 200px;
+    width: 200px;
+}
